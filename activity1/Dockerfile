@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM openjdk:11-jre-slim
 LABEL author="DD"
 ADD https://referenceapplicationskhaja.s3.us-west-2.amazonaws.com/spring-petclinic-2.4.2.jar /spring-petclinic.jar
 EXPOSE 8080
