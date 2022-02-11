@@ -17,3 +17,4 @@ docker pull <image_name>:<tag> #image name represents application , Tag represen
 ex: docker pull jenkins/jenkins 
 
 #Docker File
+ex: docker pull jenkins/jenkins 
